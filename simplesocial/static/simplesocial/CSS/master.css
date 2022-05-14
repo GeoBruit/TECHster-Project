@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    overflow: hidden;
-    background-color: black;
+    overflow: scroll;
+    background-color: #191063;
     color:white;
   }
-  
+
